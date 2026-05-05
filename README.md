@@ -2,7 +2,7 @@
 <h3 align="center">🚀 WordPress Expert | WooCommerce Expert </h3>
  
 <p align="center">
-<a href="https://github.com/ChauhanNaman">
+<a href="https://chauhannaman.github.io/Naman-Portfolio/#portfolio">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0e75b6?style=for-the-badge" />
 </a>
 <a href="mailto:namanchauhan93@gmail.com">
